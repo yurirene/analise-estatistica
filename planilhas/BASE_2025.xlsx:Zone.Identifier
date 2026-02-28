@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://ump.app.br/dashboard/estatistica
+HostUrl=https://ump.app.br/dashboard/estatistica/exportarExcel

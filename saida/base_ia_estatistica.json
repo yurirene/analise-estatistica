@@ -1,0 +1,487 @@
+{
+    "2021": {
+        "nacional": {
+            "total_socios": 3798,
+            "total_contribuicao": 3580.71,
+            "media_contribuicao_por_socio": 0.9427883096366508,
+            "indice_renovacao_geracional": 48.393891521853604,
+            "percentual_inclusao": 1.2111637704054765,
+            "total_umps": 1024,
+            "indice_maturidade_estrutural": 3.708984375
+        },
+        "regioes": {
+            "Sudeste": {
+                "indicadores": {
+                    "total_socios": 2078,
+                    "total_contribuicao": 2861.75,
+                    "media_contribuicao_por_socio": 1.3771655437921078,
+                    "indice_renovacao_geracional": 44.75457170356112,
+                    "percentual_inclusao": 1.8286814244465832,
+                    "total_umps": 740,
+                    "indice_maturidade_estrutural": 2.808108108108108
+                },
+                "crescimento_percentual": 0,
+                "classificacao": "Estável",
+                "score_institucional": 41.05
+            },
+            "Nordeste": {
+                "indicadores": {
+                    "total_socios": 261,
+                    "total_contribuicao": 158.71,
+                    "media_contribuicao_por_socio": 0.6080842911877395,
+                    "indice_renovacao_geracional": 65.51724137931035,
+                    "percentual_inclusao": 1.9157088122605364,
+                    "total_umps": 123,
+                    "indice_maturidade_estrutural": 2.1219512195121952
+                },
+                "crescimento_percentual": 0,
+                "classificacao": "Estável",
+                "score_institucional": 43.84
+            },
+            "Centro-Oeste": {
+                "indicadores": {
+                    "total_socios": 1225,
+                    "total_contribuicao": 560.25,
+                    "media_contribuicao_por_socio": 0.4573469387755102,
+                    "indice_renovacao_geracional": 49.306122448979586,
+                    "percentual_inclusao": 0.0816326530612245,
+                    "total_umps": 93,
+                    "indice_maturidade_estrutural": 13.172043010752688
+                },
+                "crescimento_percentual": 0,
+                "classificacao": "Estável",
+                "score_institucional": 39.82
+            },
+            "Sul": {
+                "indicadores": {
+                    "total_socios": 120,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 66.66666666666666,
+                    "percentual_inclusao": 0.0,
+                    "total_umps": 44,
+                    "indice_maturidade_estrutural": 2.727272727272727
+                },
+                "crescimento_percentual": 0,
+                "classificacao": "Estável",
+                "score_institucional": 40.0
+            },
+            "Norte": {
+                "indicadores": {
+                    "total_socios": 114,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 46.49122807017544,
+                    "percentual_inclusao": 1.7543859649122806,
+                    "total_umps": 24,
+                    "indice_maturidade_estrutural": 4.75
+                },
+                "crescimento_percentual": 0,
+                "classificacao": "Estável",
+                "score_institucional": 41.75
+            }
+        },
+        "ranking_top10_sinodais": {
+            "Confederação Sinodal de Mocidade Brasil Central": 936,
+            "Confederação Sinodal Triângulo Mineiro": 342,
+            "Confederação Sinodal Espírito Santo - Rio de Janeiro": 316,
+            "Confederação Sinodal de Mocidades de Taguatinga": 219,
+            "Confederação Sinodal Sul Fluminense": 205,
+            "Confederação Sinodal Oeste Rio de Janeiro": 205,
+            "Confederação Sinodal Oeste de Belo Horizonte": 200,
+            "Confederação Sinodal Oeste Fluminense": 180,
+            "Confederação Sinodal Rio de Janeiro": 172,
+            "Confederação Sinodal de Mocidades do Sínodo do Ceará": 146
+        },
+        "crescimento_nacional": {},
+        "classificacao_nacional": ""
+    },
+    "2022": {
+        "nacional": {
+            "total_socios": 9884,
+            "total_contribuicao": 11263.44,
+            "media_contribuicao_por_socio": 1.1395629299878591,
+            "indice_renovacao_geracional": 41.88587616349656,
+            "percentual_inclusao": 2.5091056252529342,
+            "total_umps": 1148,
+            "indice_maturidade_estrutural": 8.609756097560975
+        },
+        "regioes": {
+            "Norte": {
+                "indicadores": {
+                    "total_socios": 912,
+                    "total_contribuicao": 1716.47,
+                    "media_contribuicao_por_socio": 1.8820942982456141,
+                    "indice_renovacao_geracional": 47.80701754385965,
+                    "percentual_inclusao": 1.8640350877192982,
+                    "total_umps": 118,
+                    "indice_maturidade_estrutural": 7.728813559322034
+                },
+                "crescimento_percentual": 700.0,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 57.65
+            },
+            "Sudeste": {
+                "indicadores": {
+                    "total_socios": 6027,
+                    "total_contribuicao": 4273.75,
+                    "media_contribuicao_por_socio": 0.7091007134561141,
+                    "indice_renovacao_geracional": 40.76655052264808,
+                    "percentual_inclusao": 2.9036004645760745,
+                    "total_umps": 708,
+                    "indice_maturidade_estrutural": 8.51271186440678
+                },
+                "crescimento_percentual": 190.03849855630415,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 56.2
+            },
+            "Nordeste": {
+                "indicadores": {
+                    "total_socios": 2339,
+                    "total_contribuicao": 3438.2200000000003,
+                    "media_contribuicao_por_socio": 1.4699529713552801,
+                    "indice_renovacao_geracional": 42.02650705429671,
+                    "percentual_inclusao": 1.923899102180419,
+                    "total_umps": 254,
+                    "indice_maturidade_estrutural": 9.208661417322835
+                },
+                "crescimento_percentual": 796.1685823754789,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 54.88
+            },
+            "Centro-Oeste": {
+                "indicadores": {
+                    "total_socios": 344,
+                    "total_contribuicao": 1062.0,
+                    "media_contribuicao_por_socio": 3.0872093023255816,
+                    "indice_renovacao_geracional": 49.7093023255814,
+                    "percentual_inclusao": 2.9069767441860463,
+                    "total_umps": 38,
+                    "indice_maturidade_estrutural": 9.052631578947368
+                },
+                "crescimento_percentual": -71.91836734693877,
+                "classificacao": "Declínio",
+                "score_institucional": 30.7
+            },
+            "Sul": {
+                "indicadores": {
+                    "total_socios": 262,
+                    "total_contribuicao": 773.0,
+                    "media_contribuicao_por_socio": 2.950381679389313,
+                    "indice_renovacao_geracional": 35.49618320610687,
+                    "percentual_inclusao": 0.38167938931297707,
+                    "total_umps": 30,
+                    "indice_maturidade_estrutural": 8.733333333333333
+                },
+                "crescimento_percentual": 118.33333333333333,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 48.54
+            }
+        },
+        "ranking_top10_sinodais": {
+            "Confederação Sinodal Triângulo Mineiro": 684,
+            "Confederação Sinodal Central Espírito-santense": 649,
+            "Confederação Sinodal Grande ABC": 553,
+            "Confederação Sinodal Leste de Minas": 516,
+            "Confederação Sinodal de Mocidades do Sínodo do Maranhão": 418,
+            "Confederação Sinodal de Mocidades do Sínodo da Paraíba": 414,
+            "Confederação Sinodal Vale do Paraíba": 410,
+            "Confederação Sinodal Piratininga": 392,
+            "Confederação Sinodal Rio Doce": 361,
+            "Confederação Sinodal de Mocidade Belo Horizonte": 342
+        },
+        "crescimento_nacional": 160.2422327540811,
+        "classificacao_nacional": "Crescimento Forte"
+    },
+    "2023": {
+        "nacional": {
+            "total_socios": 15067,
+            "total_contribuicao": 11134.619999999999,
+            "media_contribuicao_por_socio": 0.7390071016127961,
+            "indice_renovacao_geracional": 43.04772018318179,
+            "percentual_inclusao": 2.648171500630517,
+            "total_umps": 1415,
+            "indice_maturidade_estrutural": 10.648056537102473
+        },
+        "regioes": {
+            "Nordeste": {
+                "indicadores": {
+                    "total_socios": 4692,
+                    "total_contribuicao": 3228.62,
+                    "media_contribuicao_por_socio": 0.6881116794543904,
+                    "indice_renovacao_geracional": 45.055413469735726,
+                    "percentual_inclusao": 3.0690537084398977,
+                    "total_umps": 554,
+                    "indice_maturidade_estrutural": 8.469314079422382
+                },
+                "crescimento_percentual": 100.59854638734502,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 58.67
+            },
+            "Sudeste": {
+                "indicadores": {
+                    "total_socios": 8112,
+                    "total_contribuicao": 5308.47,
+                    "media_contribuicao_por_socio": 0.6543971893491125,
+                    "indice_renovacao_geracional": 40.273668639053255,
+                    "percentual_inclusao": 2.403846153846154,
+                    "total_umps": 682,
+                    "indice_maturidade_estrutural": 11.894428152492669
+                },
+                "crescimento_percentual": 34.59432553509208,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 54.95
+            },
+            "Sul": {
+                "indicadores": {
+                    "total_socios": 486,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 39.91769547325103,
+                    "percentual_inclusao": 3.0864197530864197,
+                    "total_umps": 50,
+                    "indice_maturidade_estrutural": 9.72
+                },
+                "crescimento_percentual": 85.49618320610686,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 56.13
+            },
+            "Centro-Oeste": {
+                "indicadores": {
+                    "total_socios": 809,
+                    "total_contribuicao": 318.5,
+                    "media_contribuicao_por_socio": 0.3936959208899876,
+                    "indice_renovacao_geracional": 50.803461063040785,
+                    "percentual_inclusao": 3.0902348578491967,
+                    "total_umps": 45,
+                    "indice_maturidade_estrutural": 17.977777777777778
+                },
+                "crescimento_percentual": 135.17441860465115,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 61.18
+            },
+            "Norte": {
+                "indicadores": {
+                    "total_socios": 968,
+                    "total_contribuicao": 2279.0299999999997,
+                    "media_contribuicao_por_socio": 2.3543698347107433,
+                    "indice_renovacao_geracional": 51.652892561983464,
+                    "percentual_inclusao": 2.066115702479339,
+                    "total_umps": 84,
+                    "indice_maturidade_estrutural": 11.523809523809524
+                },
+                "crescimento_percentual": 6.140350877192982,
+                "classificacao": "Crescimento Moderado",
+                "score_institucional": 53.37
+            }
+        },
+        "ranking_top10_sinodais": {
+            "Confederação Sinodal Central Espírito-santense": 668,
+            "Confederação Sinodal Leste de Minas": 588,
+            "Confederação Sinodal Grande ABC": 585,
+            "Confederação Sinodal Triângulo Mineiro": 574,
+            "Confederação Sinodal São Paulo": 558,
+            "Confederação Sinodal de Mocidades do Sínodo da Paraíba": 557,
+            "Confederação Sinodal Piratininga": 458,
+            "Confederação Sinodal de Mocidades do Sínodo Sul da Bahia": 423,
+            "Confederação Sinodal Vale do Paraíba": 396,
+            "Confederação Sinodal de Mocidades do Sínodo do Maranhão": 375
+        },
+        "crescimento_nacional": 52.43828409550789,
+        "classificacao_nacional": "Crescimento Forte"
+    },
+    "2024": {
+        "nacional": {
+            "total_socios": 18254,
+            "total_contribuicao": 16315.41,
+            "media_contribuicao_por_socio": 0.893799167305796,
+            "indice_renovacao_geracional": 43.36035937328805,
+            "percentual_inclusao": 3.029472992220883,
+            "total_umps": 1512,
+            "indice_maturidade_estrutural": 12.072751322751323
+        },
+        "regioes": {
+            "Sudeste": {
+                "indicadores": {
+                    "total_socios": 9690,
+                    "total_contribuicao": 9089.15,
+                    "media_contribuicao_por_socio": 0.9379927760577915,
+                    "indice_renovacao_geracional": 40.103199174406605,
+                    "percentual_inclusao": 2.8379772961816303,
+                    "total_umps": 688,
+                    "indice_maturidade_estrutural": 14.084302325581396
+                },
+                "crescimento_percentual": 19.45266272189349,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 55.74
+            },
+            "Norte": {
+                "indicadores": {
+                    "total_socios": 1119,
+                    "total_contribuicao": 713.41,
+                    "media_contribuicao_por_socio": 0.6375424486148347,
+                    "indice_renovacao_geracional": 49.06166219839142,
+                    "percentual_inclusao": 3.1277926720285967,
+                    "total_umps": 85,
+                    "indice_maturidade_estrutural": 13.16470588235294
+                },
+                "crescimento_percentual": 15.599173553719009,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 60.79
+            },
+            "Nordeste": {
+                "indicadores": {
+                    "total_socios": 5816,
+                    "total_contribuicao": 4500.38,
+                    "media_contribuicao_por_socio": 0.773792984869326,
+                    "indice_renovacao_geracional": 47.45529573590097,
+                    "percentual_inclusao": 3.5075653370013753,
+                    "total_umps": 601,
+                    "indice_maturidade_estrutural": 9.67720465890183
+                },
+                "crescimento_percentual": 23.955669224211423,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 60.75
+            },
+            "Centro-Oeste": {
+                "indicadores": {
+                    "total_socios": 1360,
+                    "total_contribuicao": 1170.97,
+                    "media_contribuicao_por_socio": 0.8610073529411765,
+                    "indice_renovacao_geracional": 47.205882352941174,
+                    "percentual_inclusao": 2.0588235294117645,
+                    "total_umps": 94,
+                    "indice_maturidade_estrutural": 14.46808510638298
+                },
+                "crescimento_percentual": 68.1087762669963,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 57.73
+            },
+            "Sul": {
+                "indicadores": {
+                    "total_socios": 269,
+                    "total_contribuicao": 841.5,
+                    "media_contribuicao_por_socio": 3.1282527881040894,
+                    "indice_renovacao_geracional": 28.99628252788104,
+                    "percentual_inclusao": 4.089219330855019,
+                    "total_umps": 44,
+                    "indice_maturidade_estrutural": 6.113636363636363
+                },
+                "crescimento_percentual": -44.650205761316876,
+                "classificacao": "Declínio",
+                "score_institucional": 22.71
+            }
+        },
+        "ranking_top10_sinodais": {
+            "Confederação Sinodal Central Espírito-santense": 984,
+            "Confederação Sinodal de Mocidades do Sínodo de Pernambuco": 803,
+            "Confederação Sinodal Leste de Minas": 645,
+            "Confederação Sinodal São Paulo": 627,
+            "Confederação Sinodal Grande ABC": 603,
+            "Confederação Sinodal de Mocidades do Sínodo da Paraíba": 531,
+            "Confederação Sinodal Vale do Paraíba": 452,
+            "Confederação Sinodal Rio Doce": 445,
+            "Confederação Sinodal de Mocidades do Sínodo do Maranhão": 438,
+            "Confederação Sinodal Triângulo Mineiro": 403
+        },
+        "crescimento_nacional": 21.152186898519947,
+        "classificacao_nacional": "Crescimento Forte"
+    },
+    "2025": {
+        "nacional": {
+            "total_socios": 14979,
+            "total_contribuicao": 0.0,
+            "media_contribuicao_por_socio": 0.0,
+            "indice_renovacao_geracional": 43.24721276453702,
+            "percentual_inclusao": 3.4114426864276655,
+            "total_umps": 0,
+            "indice_maturidade_estrutural": 0
+        },
+        "regioes": {
+            "Sudeste": {
+                "indicadores": {
+                    "total_socios": 7713,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 40.360430442110726,
+                    "percentual_inclusao": 3.5005834305717616,
+                    "total_umps": 0,
+                    "indice_maturidade_estrutural": 0
+                },
+                "crescimento_percentual": -20.402476780185758,
+                "classificacao": "Declínio",
+                "score_institucional": 27.18
+            },
+            "Norte": {
+                "indicadores": {
+                    "total_socios": 1444,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 50.69252077562327,
+                    "percentual_inclusao": 3.254847645429363,
+                    "total_umps": 0,
+                    "indice_maturidade_estrutural": 0
+                },
+                "crescimento_percentual": 29.0437890974084,
+                "classificacao": "Crescimento Forte",
+                "score_institucional": 61.51
+            },
+            "Nordeste": {
+                "indicadores": {
+                    "total_socios": 4795,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 44.754953076120955,
+                    "percentual_inclusao": 3.0865484880083423,
+                    "total_umps": 0,
+                    "indice_maturidade_estrutural": 0
+                },
+                "crescimento_percentual": -17.555020632737275,
+                "classificacao": "Declínio",
+                "score_institucional": 28.55
+            },
+            "Sul": {
+                "indicadores": {
+                    "total_socios": 262,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 40.458015267175576,
+                    "percentual_inclusao": 4.580152671755725,
+                    "total_umps": 0,
+                    "indice_maturidade_estrutural": 0
+                },
+                "crescimento_percentual": -2.6022304832713754,
+                "classificacao": "Declínio",
+                "score_institucional": 40.49
+            },
+            "Centro-Oeste": {
+                "indicadores": {
+                    "total_socios": 765,
+                    "total_contribuicao": 0.0,
+                    "media_contribuicao_por_socio": 0.0,
+                    "indice_renovacao_geracional": 49.80392156862745,
+                    "percentual_inclusao": 4.444444444444445,
+                    "total_umps": 0,
+                    "indice_maturidade_estrutural": 0
+                },
+                "crescimento_percentual": -43.75,
+                "classificacao": "Declínio",
+                "score_institucional": 33.79
+            }
+        },
+        "ranking_top10_sinodais": {
+            "Confederação Sinodal Central Espírito-santense": 1118,
+            "Confederação Sinodal Leste de Minas": 719,
+            "Confederação Sinodal Grande ABC": 573,
+            "Confederação Sinodal de Mocidades do Sínodo da Paraíba": 547,
+            "Confederação Sinodal Rio Doce": 517,
+            "Confederação Sinodal São Paulo": 507,
+            "Confederação Sinodal de Mocidades do Sínodo do Maranhão": 441,
+            "Confederação Sinodal Vale do Paraíba": 412,
+            "Confederação Sinodal de Mocidades do Sínodo Noroeste do Brasil": 403,
+            "Confederação Sinodal de Mocidades Setentrional": 369
+        },
+        "crescimento_nacional": -17.941273145611923,
+        "classificacao_nacional": "Declínio"
+    }
+}
